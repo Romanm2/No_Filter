@@ -1,0 +1,25 @@
+
+body {
+  background-color: #347B98;
+}
+
+#bu1 {
+  background-color: #092834;
+  color: white;
+  border-color: #67AFCB;
+}
+
+#title {
+  font-family: helvetica;
+  font-weight: 3000;
+  border-radius: 15%;
+  display: inline-flex;
+}
+
+#image {
+  padding: 15px;
+  display: inline;
+  border-style: ridge;
+  border-radius: 50%;
+  background-color: #E4F1F6;
+}
